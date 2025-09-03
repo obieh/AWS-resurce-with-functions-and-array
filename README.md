@@ -1,0 +1,1 @@
+# AWS-resurce-with-functions-and-array
